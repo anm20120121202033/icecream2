@@ -1,0 +1,171 @@
+.lazzabg{
+	background:#603f5c;
+	padding:15px;			
+}
+.lazzalogo{
+	padding-left:70px;
+}
+.location{
+	margin-left:205px;
+	margin-top:-65px;
+}
+.text{
+	color:white;
+}
+li{
+	display:inline;
+		
+}
+.navbar{
+	margin-left:800px;
+	margin-top:-40px;
+}
+.a1
+{
+	color:white;
+}
+.a1:Active
+{
+color:white;}
+
+.navbar a:hover{
+				color:#14cdde;
+				text-decoration:none;
+				}
+
+.fot{
+							  position: relative;
+							 }	
+                    .fot::after {
+							  content: "";
+							  position: absolute;
+							  left: 0;
+							  bottom: -5px;
+							  width: 100%;
+							  height: 1px;
+							  background-color: #fc0ac8;
+							  transform: scaleX(0);
+							  transform-origin:bottom right;
+							  transition:transform 0.3s ease-out;
+							}
+					.fot:hover::after {
+							  transform: scaleX(1);
+							  transform-origin:bottom left;
+							}
+
+.ice1{
+	margin-top:-450px;
+}
+.cont1{
+	margin-top:-150px;
+	margin-left:60px;
+}
+.price1{
+	margin-left:50px;
+}
+.cartbtn1{
+	margin-top:10px;
+	margin-left:35px;
+	background:#ff1800;
+	color:white;
+	padding:4px;
+	border:none;
+	border-radius:5px;
+}
+.ice2{
+	margin-top:-450px;
+}
+.cont2{
+	margin-top:-150px;
+	margin-left:60px;
+}
+.price2{
+	margin-left:50px;
+}
+.cartbtn2{
+	margin-top:10px;
+	margin-left:35px;
+	background:#ff1800;
+	color:white;
+	padding:4px;
+	border:none;
+	border-radius:5px;
+}
+.shwbtn{
+	background:#ff1800;
+	color:white;
+	padding:4px;
+	border:none;
+	border-radius:5px;
+}
+.paraali{
+	margin-left:600px;
+	margin-top:-370px;
+}
+.mrq{
+	color:yellow;
+	background:#402c37;
+	padding:15px;
+}
+.fotr{
+	background:black;
+	padding:80px;
+}
+.ft{
+	color:yellow;
+	margin-left:200px;
+	margin-top:-150px;
+}
+.a2
+{
+	color:yellow;
+}
+.a2:Active
+{
+color:yellow;}
+
+.ft2{
+	color:yellow;
+	margin-left:380px;
+	margin-top:-125px;
+}
+.ft3{
+	color:yellow;
+	margin-left:580px;
+	margin-top:-125px;
+}
+.ft4{
+	color:yellow;
+	margin-left:780px;
+	margin-top:-165px;
+}
+.f1{
+	margin-left:970px;
+	margin-top:-100px;
+}
+.para1{
+	font-family:papyrus;
+	font-weight:bold;
+	color:#0563fa;
+}
+.para2{
+	font-family:papyrus;
+	font-weight:bold;
+	color:#0563fa;
+}
+.bdayimg:hover{
+	transition:3s;
+	transform:translate(-5px, -10px);
+}
+.ice1:hover{
+	transition:3s;
+	transform:translate(-5px, -10px);
+}
+.ice2:hover{
+	transition:3s;
+	transform:translate(-5px, -10px);
+}
+.cream:hover{
+	transition:3s;
+	transform:scale(1.3);
+}
